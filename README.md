@@ -3,7 +3,7 @@
 
 <h3 align="left">What I Do:</h3>
 <p align="left">
-As a Python freelance developer, I specialize in crafting web applications using Django, creating seamless user experiences, and bringing ideas to life through clean and efficient code. Additionally, I play a pivotal role in leading <b>BrainBytes</b>, a collaborative team that focuses on research, programming, and continuous learning. My journey involves coding elegant algorithms, exploring AI and machine learning, and unraveling the intricacies of computational biology and bioinformatics. Currently a biotechnology student, I'm on a dynamic quest to blend science and technology, driven by my relentless curiosity and dedication to innovation.
+As a Python freelance developer, I specialize in crafting web applications using Django, creating seamless user experiences, and bringing ideas to life through clean and efficient code. I have experience creating applications using various technologies, including Qt (PyQt5). Additionally, I play a pivotal role in leading <b>BrainBytes</b>, a collaborative team that focuses on research, programming, and continuous learning. My journey involves coding elegant algorithms, exploring AI and machine learning, and unraveling the intricacies of computational biology and bioinformatics. Currently a biotechnology student, I'm on a dynamic quest to blend science and technology, driven by my relentless curiosity and dedication to innovation.
 </p>
 
 <h3 align="left">What I'm Learning:</h3>
