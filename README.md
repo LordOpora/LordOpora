@@ -18,9 +18,6 @@ As a Python freelance developer, I specialize in crafting web applications using
 🔍 <b>Bioinformatics Expertise</b>: We're equipped with bioinformatics capabilities, allowing us to analyze and derive meaningful insights from complex biological data. <br>
 💻 <b>Programming Projects</b>: We engage in a diverse range of programming projects, spanning from creating cutting-edge AI models to developing software tools that address challenges across various domains. This collaborative environment nurtures our learning and knowledge exchange.
 </p>
-<p align="left">
-To learn more about us, our ongoing projects, and the strides we're making in the world of biotechnology, bioinformatics, and education, visit [BrainBytes.ir](https://www.brainbytes.ir). We're excited to be on the forefront of these impactful endeavors and extend an invitation to individuals who share our passion to join us in our journey of exploration, research, and education.
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
