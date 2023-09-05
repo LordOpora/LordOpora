@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Ali Moradpour</h1>
+<h1 align="center">Hello there 👋, I'm Ali Moradpour (LordOpora)</h1>
 <h3 align="center">🐍 Python Freelance Developer | 🌐 Web Applications with Django | 🤖 AI Enthusiast | 🧬 Computational Biology & Bioinformatics Explorer</h3>
 
 <h3 align="left">What I Do:</h3>
